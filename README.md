@@ -1,2 +1,2 @@
 # AppAcademyWeek1
-Week one work.
+An introduction to App development using HTML and CSS.
